@@ -15,10 +15,10 @@ All you need to do to start the ndoe in your webpage is:
 
 3. Optionally, you can add the following lines of code to your <body> to create a status indicator for the node. You can edit the index.css as you like.
 
-    >div class="block">
+    <code<div class="block">
       <h1>IPFS Node</h1>
       <h2 id="status">Node status: offline</h2>
-    </div<
+    </div></code>
 
 Now, you can look at the console, and you should see a "IPFS node online" indicator.
 
